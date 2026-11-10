@@ -1,0 +1,25 @@
+# --- Kept out of the code repository ---
+datasets/
+ChatConnect_prototype/
+*.docx
+.claude/
+chatconnect/SRS/
+chatconnect/emulator_screenshots/
+
+# --- Secrets: never commit (each folder has a .env.example) ---
+.env
+.env.*
+!.env.example
+
+# --- Python ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# --- Misc ---
+node_modules/
+.vercel/
+
+# --- Build output ---
+chatconnect/android/build/

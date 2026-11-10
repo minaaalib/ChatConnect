@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_description">Mental health quote of the day</string>
+    <string name="widget_brand">ChatConnect</string>
+    <string name="widget_default_quote">Open ChatConnect to load today\'s quote…</string>
+    <string name="widget_default_author">— ChatConnect</string>
+</resources>

@@ -1,0 +1,2 @@
+# Shell scripts run on Linux (Vercel): keep LF line endings.
+*.sh text eol=lf
